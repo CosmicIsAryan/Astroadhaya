@@ -1,7 +1,7 @@
-
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -14,23 +14,24 @@
     <!-- Template CSS -->
     <link rel="stylesheet" href="assets/css/style-starter.css">
     <link rel="icon" type="image/icon" href="assets/img/logo_bag.png">
-  </head>
-  <body>
+</head>
+
+<body>
 
     <!-- top header -->
     <?php include_once('header.php') ?>
-   
-  <!-- //top header -->
 
-<section class="w3l-breadcrumb">
-    <div class="container">
-      <ul class="breadcrumbs-custom-path">
-        <li><a href="index.html">Home</a></li>
-        <li class="active">/ Contact Us</li>
-      </ul>
-    </div>
-  </section>
-<!-- contact -->
+    <!-- //top header -->
+
+    <section class="w3l-breadcrumb">
+        <div class="container">
+            <ul class="breadcrumbs-custom-path">
+                <li><a href="index.html">Home</a></li>
+                <li class="active">/ Contact Us</li>
+            </ul>
+        </div>
+    </section>
+    <!-- contact -->
     <section class="w3l-contacts-12" id="contact">
         <div class="contact-top pt-5">
             <div class="container py-lg-4">
@@ -58,17 +59,19 @@
                         <div class="cont-subs">
                             <div class="cont-add">
                                 <h4>Location:</h4>
-                                <p class="contact-text-sub">Excellence Solutions, 343 marketing, #2214 cravel street, NY - 62617.</p>
+                                <p class="contact-text-sub">Excellence Solutions, 343 marketing, #2214 cravel street, NY
+                                    - 62617.</p>
                             </div>
                             <div class="cont-add">
                                 <h4>Email Address:</h4>
                                 <a href="mailto:info@example.com">
-                                    <p class="contact-text-sub">info@example.com</p>
+                                    <p class="contact-text-sub"></p>
                                 </a>
                             </div>
                             <div class="cont-add">
                                 <h4>Phone Number:</h4>
-                                <a href="tel:+1(21) 234 4567"><p class="contact-text-sub">+1(21) 234 4567</p>
+                                <a href="tel:+1(21) 234 4567">
+                                    <p class="contact-text-sub">+1(21) 234 4567</p>
                                 </a>
                             </div>
                             <div class="social-icons-con">
@@ -93,257 +96,258 @@
         </div>
     </section>
     <!-- //contact -->
-<!-- footer -->
-<section class="w3l-footer-29-main">
-  <div class="footer-29 py-5">
-    <div class="container py-lg-4">
-      <div class="row footer-top-29">
-        <div class="col-lg-4 col-md-6 col-sm-7 footer-list-29 footer-1 pr-lg-5">
-          <div class="footer-logo mb-4">
-            <a class="navbar-brand" href="index.html">
-              <span class="fa fa-clone"></span> Excellence</a>
-          </div>
-          <p>We are Creative. World's best IT service company. Get the most of reduction in your team’s operating
-            creates amazing UI/UX experiences. </p>
-          <div class="main-social-footer-29 mt-4">
-            <a href="#facebook" class="facebook"><span class="fa fa-facebook"></span></a>
-            <a href="#twitter" class="twitter"><span class="fa fa-twitter"></span></a>
-            <a href="#instagram" class="instagram"><span class="fa fa-instagram"></span></a>
-            <a href="#linkedin" class="linkedin"><span class="fa fa-linkedin"></span></a>
-          </div>
-        </div>
-        <div class="col-lg-2 col-md-6 col-sm-5 col-6 footer-list-29 footer-2 mt-sm-0 mt-5">
+    <!-- footer -->
+    <section class="w3l-footer-29-main">
+        <div class="footer-29 py-5">
+            <div class="container py-lg-4">
+                <div class="row footer-top-29">
+                    <div class="col-lg-4 col-md-6 col-sm-7 footer-list-29 footer-1 pr-lg-5">
+                        <div class="footer-logo mb-4">
+                            <a class="navbar-brand" href="index.html">
+                                <span class="fa fa-clone"></span> Excellence</a>
+                        </div>
+                        <p>We are Creative. World's best IT service company. Get the most of reduction in your team’s
+                            operating
+                            creates amazing UI/UX experiences. </p>
+                        <div class="main-social-footer-29 mt-4">
+                            <a href="#facebook" class="facebook"><span class="fa fa-facebook"></span></a>
+                            <a href="#twitter" class="twitter"><span class="fa fa-twitter"></span></a>
+                            <a href="#instagram" class="instagram"><span class="fa fa-instagram"></span></a>
+                            <a href="#linkedin" class="linkedin"><span class="fa fa-linkedin"></span></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 col-sm-5 col-6 footer-list-29 footer-2 mt-sm-0 mt-5">
 
-          <ul>
-            <h6 class="footer-title-29">Navigation</h6>
-            <li><a href="about.html">About Us</a></li>
-            <li><a href="index.html#homeblog"> Blog posts</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="contact.html">Contact us</a></li>
-            <li><a href="#components"> Components</a></li>
-          </ul>
-        </div>
-        <div class="col-lg-2 col-md-6 col-sm-5 col-6 footer-list-29 footer-3 mt-lg-0 mt-5">
-          <h6 class="footer-title-29">Resources</h6>
-          <ul>
-            <li><a href="#traning">Marketing Plans</a></li>
-            <li><a href="#marketplace">Digital Services</a></li>
-            <li><a href="#experts">Interior Design</a></li>
-            <li><a href="#platform">Product Selling</a></li>
-            <li><a href="#marketplace">Digital Services</a></li>
-          </ul>
+                        <ul>
+                            <h6 class="footer-title-29">Navigation</h6>
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="index.html#homeblog"> Blog posts</a></li>
+                            <li><a href="services.html">Services</a></li>
+                            <li><a href="contact.html">Contact us</a></li>
+                            <li><a href="#components"> Components</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-2 col-md-6 col-sm-5 col-6 footer-list-29 footer-3 mt-lg-0 mt-5">
+                        <h6 class="footer-title-29">Resources</h6>
+                        <ul>
+                            <li><a href="#traning">Marketing Plans</a></li>
+                            <li><a href="#marketplace">Digital Services</a></li>
+                            <li><a href="#experts">Interior Design</a></li>
+                            <li><a href="#platform">Product Selling</a></li>
+                            <li><a href="#marketplace">Digital Services</a></li>
+                        </ul>
 
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-7 footer-list-29 footer-4 mt-lg-0 mt-5">
+                        <h6 class="footer-title-29">Contact Info </h6>
+                        <p>Address : Excellence Solutions, 343 marketing, #2214 cravel street, NY - 62617.</p>
+                        <p class="mt-2">Phone : <a href="tel:+1(21) 234 4567">+1(21) 234 4567</a></p>
+                        <p class="mt-2">Email : <a href="mailto:info@example.com">info@example.com</a></p>
+                        <p class="mt-2">Support : <a href="mailto:info@support.com">info@support.com</a></p>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="col-lg-4 col-md-6 col-sm-7 footer-list-29 footer-4 mt-lg-0 mt-5">
-          <h6 class="footer-title-29">Contact Info </h6>
-          <p>Address : Excellence Solutions, 343 marketing, #2214 cravel street, NY - 62617.</p>
-          <p class="mt-2">Phone : <a href="tel:+1(21) 234 4567">+1(21) 234 4567</a></p>
-          <p class="mt-2">Email : <a href="mailto:info@example.com">info@example.com</a></p>
-          <p class="mt-2">Support : <a href="mailto:info@support.com">info@support.com</a></p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- copyright -->
-  <section class="w3l-copyright text-center">
-    <div class="container">
-      <p class="copy-footer-29">© 2021 Excellence. All rights reserved. Design by <a href="https://w3layouts.com/"
-          target="_blank">
-          W3Layouts</a></p>
-    </div>
+        <!-- copyright -->
+        <section class="w3l-copyright text-center">
+            <div class="container">
+                <p class="copy-footer-29">© 2021 Excellence. All rights reserved. Design by <a
+                        href="https://w3layouts.com/" target="_blank">
+                        W3Layouts</a></p>
+            </div>
 
-    <!-- move top -->
-    <button onclick="topFunction()" id="movetop" title="Go to top">
-      &#10548;
-    </button>
+            <!-- move top -->
+            <button onclick="topFunction()" id="movetop" title="Go to top">
+                &#10548;
+            </button>
+            <script>
+            // When the user scrolls down 20px from the top of the document, show the button
+            window.onscroll = function() {
+                scrollFunction()
+            };
+
+            function scrollFunction() {
+                if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                    document.getElementById("movetop").style.display = "block";
+                } else {
+                    document.getElementById("movetop").style.display = "none";
+                }
+            }
+
+            // When the user clicks on the button, scroll to the top of the document
+            function topFunction() {
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+            }
+            </script>
+            <!-- /move top -->
+        </section>
+        <!-- //copyright -->
+    </section>
+    <!-- //footer -->
+
+    <!--  javascripts file here -->
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+
+    <script src="assets/js/theme-change.js"></script> <!-- //light and dark mode switch js -->
+
+    <script src="assets/js/jquery-1.9.1.min.js"></script>
+    <!-- faq -->
     <script>
-      // When the user scrolls down 20px from the top of the document, show the button
-      window.onscroll = function () {
-        scrollFunction()
-      };
+    const items = document.querySelectorAll(".accordion button");
 
-      function scrollFunction() {
-        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-          document.getElementById("movetop").style.display = "block";
-        } else {
-          document.getElementById("movetop").style.display = "none";
+    function toggleAccordion() {
+        const itemToggle = this.getAttribute('aria-expanded');
+
+        for (i = 0; i < items.length; i++) {
+            items[i].setAttribute('aria-expanded', 'false');
         }
-      }
 
-      // When the user clicks on the button, scroll to the top of the document
-      function topFunction() {
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-      }
+        if (itemToggle == 'false') {
+            this.setAttribute('aria-expanded', 'true');
+        }
+    }
+
+    items.forEach(item => item.addEventListener('click', toggleAccordion));
     </script>
-    <!-- /move top -->
-  </section>
-  <!-- //copyright -->
-</section>
-<!-- //footer -->
+    <!-- //faq -->
 
-<!--  javascripts file here -->
-<script src="assets/js/jquery-3.3.1.min.js"></script>
-
-<script src="assets/js/theme-change.js"></script> <!-- //light and dark mode switch js -->
-
-<script src="assets/js/jquery-1.9.1.min.js"></script>
-<!-- faq -->
-<script>
-  const items = document.querySelectorAll(".accordion button");
-
-  function toggleAccordion() {
-    const itemToggle = this.getAttribute('aria-expanded');
-
-    for (i = 0; i < items.length; i++) {
-      items[i].setAttribute('aria-expanded', 'false');
-    }
-
-    if (itemToggle == 'false') {
-      this.setAttribute('aria-expanded', 'true');
-    }
-  }
-
-  items.forEach(item => item.addEventListener('click', toggleAccordion));
-</script>
-<!-- //faq -->
-
-<script src="assets/js/easyResponsiveTabs.js"></script>
-<!--Plug-in Initialisation-->
-<script type="text/javascript">
-  $(document).ready(function () {
-    //Horizontal Tab
-    $('#parentHorizontalTab').easyResponsiveTabs({
-      type: 'default', //Types: default, vertical, accordion
-      width: 'auto', //auto or any width like 600px
-      fit: true, // 100% fit in a container
-      tabidentify: 'hor_1', // The tab groups identifier
-      activate: function (event) { // Callback function if tab is switched
-        var $tab = $(this);
-        var $info = $('#nested-tabInfo');
-        var $name = $('span', $info);
-        $name.text($tab.text());
-        $info.show();
-      }
+    <script src="assets/js/easyResponsiveTabs.js"></script>
+    <!--Plug-in Initialisation-->
+    <script type="text/javascript">
+    $(document).ready(function() {
+        //Horizontal Tab
+        $('#parentHorizontalTab').easyResponsiveTabs({
+            type: 'default', //Types: default, vertical, accordion
+            width: 'auto', //auto or any width like 600px
+            fit: true, // 100% fit in a container
+            tabidentify: 'hor_1', // The tab groups identifier
+            activate: function(event) { // Callback function if tab is switched
+                var $tab = $(this);
+                var $info = $('#nested-tabInfo');
+                var $name = $('span', $info);
+                $name.text($tab.text());
+                $info.show();
+            }
+        });
     });
-  });
-</script>
+    </script>
 
-<!-- owl carousel -->
-<script src="assets/js/owl.carousel.js"></script>
-<!-- script for banner slider-->
-<script>
-  $(document).ready(function () {
-    $('.owl-one').owlCarousel({
-      loop: true,
-      margin: 0,
-      nav: false,
-      responsiveClass: true,
-      autoplay: true,
-      autoplayTimeout: 5000,
-      autoplaySpeed: 1000,
-      autoplayHoverPause: false,
-      responsive: {
-        0: {
-          items: 1
-        },
-        480: {
-          items: 1
-        },
-        667: {
-          items: 1
-        },
-        1000: {
-          items: 1
-        }
-      }
+    <!-- owl carousel -->
+    <script src="assets/js/owl.carousel.js"></script>
+    <!-- script for banner slider-->
+    <script>
+    $(document).ready(function() {
+        $('.owl-one').owlCarousel({
+            loop: true,
+            margin: 0,
+            nav: false,
+            responsiveClass: true,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplaySpeed: 1000,
+            autoplayHoverPause: false,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                480: {
+                    items: 1
+                },
+                667: {
+                    items: 1
+                },
+                1000: {
+                    items: 1
+                }
+            }
+        })
     })
-  })
-</script>
-<!-- //script -->
-<!-- owl carousel -->
+    </script>
+    <!-- //script -->
+    <!-- owl carousel -->
 
 
-<!-- script for customers -->
-<script>
-  $(document).ready(function () {
-    $('.owl-three').owlCarousel({
-      loop: true,
-      margin: 0,
-      nav: false,
-      dots: false,
-      responsiveClass: true,
-      autoplay: true,
-      autoplayTimeout: 5000,
-      autoplaySpeed: 1000,
-      autoplayHoverPause: false,
-      responsive: {
-        0: {
-          items: 3,
-          nav: true
-        },
-        480: {
-          items: 3,
-          nav: true
-        },
-        667: {
-          items: 3,
-          nav: true
-        },
-        800: {
-          items: 4,
-          nav: true
-        },
-        1000: {
-          items: 5,
-          nav: true
-        }
-      }
+    <!-- script for customers -->
+    <script>
+    $(document).ready(function() {
+        $('.owl-three').owlCarousel({
+            loop: true,
+            margin: 0,
+            nav: false,
+            dots: false,
+            responsiveClass: true,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplaySpeed: 1000,
+            autoplayHoverPause: false,
+            responsive: {
+                0: {
+                    items: 3,
+                    nav: true
+                },
+                480: {
+                    items: 3,
+                    nav: true
+                },
+                667: {
+                    items: 3,
+                    nav: true
+                },
+                800: {
+                    items: 4,
+                    nav: true
+                },
+                1000: {
+                    items: 5,
+                    nav: true
+                }
+            }
+        })
     })
-  })
-</script>
-<!-- //customers owlcarousel -->
+    </script>
+    <!-- //customers owlcarousel -->
 
-<!-- disable body scroll which navbar is in active -->
-<!-- <script>
+    <!-- disable body scroll which navbar is in active -->
+    <!-- <script>
   $(function () {
     $('.navbar-toggler').click(function () {
       $('body').toggleClass('noscroll');
     })
   });
 </script> -->
-<!-- disable body scroll which navbar is in active -->
+    <!-- disable body scroll which navbar is in active -->
 
-<!--/MENU-JS-->
-<script>
-  $(window).on("scroll", function () {
-    var scroll = $(window).scrollTop();
+    <!--/MENU-JS-->
+    <script>
+    $(window).on("scroll", function() {
+        var scroll = $(window).scrollTop();
 
-    if (scroll >= 80) {
-      $("#site-header").addClass("nav-fixed");
-    } else {
-      $("#site-header").removeClass("nav-fixed");
-    }
-  });
-
-  //Main navigation Active Class Add Remove
-  $(".navbar-toggler").on("click", function () {
-    $("header").toggleClass("active");
-  });
-  $(document).on("ready", function () {
-    if ($(window).width() > 991) {
-      $("header").removeClass("active");
-    }
-    $(window).on("resize", function () {
-      if ($(window).width() > 991) {
-        $("header").removeClass("active");
-      }
+        if (scroll >= 80) {
+            $("#site-header").addClass("nav-fixed");
+        } else {
+            $("#site-header").removeClass("nav-fixed");
+        }
     });
-  });
-</script>
-<!--//MENU-JS-->
 
-<script src="assets/js/bootstrap.min.js"></script><!-- //bootstrap js -->
+    //Main navigation Active Class Add Remove
+    $(".navbar-toggler").on("click", function() {
+        $("header").toggleClass("active");
+    });
+    $(document).on("ready", function() {
+        if ($(window).width() > 991) {
+            $("header").removeClass("active");
+        }
+        $(window).on("resize", function() {
+            if ($(window).width() > 991) {
+                $("header").removeClass("active");
+            }
+        });
+    });
+    </script>
+    <!--//MENU-JS-->
+
+    <script src="assets/js/bootstrap.min.js"></script><!-- //bootstrap js -->
 
 </body>
 

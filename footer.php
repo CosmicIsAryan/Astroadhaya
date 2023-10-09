@@ -6,25 +6,21 @@
         <div class="col-lg-4 col-md-6 col-sm-7 footer-list-29 footer-1 pr-lg-5">
           <div class="footer-logo mb-4">
             <a class="navbar-brand" href="index.html">
-              <span class="fa fa-clone"></span> Excellence</a>
+              <img src="assets\img\logo_bag1.png" alt="">
           </div>
-          <p>We are Creative. World's best IT service company. Get the most of reduction in your team’s operating
-            creates amazing UI/UX experiences. </p>
           <div class="main-social-footer-29 mt-4">
             <a href="#facebook" class="facebook"><span class="fa fa-facebook"></span></a>
-            <a href="#twitter" class="twitter"><span class="fa fa-twitter"></span></a>
             <a href="#instagram" class="instagram"><span class="fa fa-instagram"></span></a>
-            <a href="#linkedin" class="linkedin"><span class="fa fa-linkedin"></span></a>
           </div>
         </div>
         <div class="col-lg-2 col-md-6 col-sm-5 col-6 footer-list-29 footer-2 mt-sm-0 mt-5">
 
           <ul>
             <h6 class="footer-title-29">Navigation</h6>
-            <li><a href="about.html">About Us</a></li>
+            <li><a href="about.php">About Us</a></li>
             <li><a href="index.html#homeblog"> Blog posts</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="contact.html">Contact us</a></li>
+            <li><a href="services.php">Services</a></li>
+            <li><a href="contact.php">Contact us</a></li>
             <li><a href="#components"> Components</a></li>
           </ul>
         </div>
@@ -52,9 +48,9 @@
   <!-- copyright -->
   <section class="w3l-copyright text-center">
     <div class="container">
-      <p class="copy-footer-29">© 2021 Excellence. All rights reserved. Design by <a href="https://w3layouts.com/"
+      <p class="copy-footer-29">© 2023 AstroAadhaya.  Design by <a href="https://w3layouts.com/"
           target="_blank">
-          W3Layouts</a></p>
+          </a></p>
     </div>
 
     <!-- move top -->

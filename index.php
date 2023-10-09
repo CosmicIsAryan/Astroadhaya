@@ -11,7 +11,7 @@
     <link href="//fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;400;700&display=swap" rel="stylesheet">
 
     <!-- Template CSS -->
-    <link rel="stylesheet" type="text/css" href="assets/css/style-starter.css">
+    <link rel="stylesheet" type="text/css" href="assets\css\style-starter.css">
 	<link rel="icon" type="image/icon" href="assets/img/logo_bag.png">
   </head>
   <body>
@@ -411,7 +411,7 @@
 </section>
 
 <!--  News section -->
-<div class="w3l-news text-11" id="homeblog">
+<!-- <div class="w3l-news text-11" id="homeblog">
     <section id="grids5-block" class="py-5">
         <div class="container py-lg-5 py-md-4 py-2">
             <h3 class="title-big text-center">Our Great Idea For<br>
@@ -419,7 +419,7 @@
             <div class="row mt-lg-5 mt-4 text11-content">
                 <div class="col-lg-4 col-md-6 mt-md-0 mt-sm-4">
                     <div class="grids5-info">
-                        <a href="#blog-single" class="blog-image d-block zoom"><img src="assets/images/blog1.jpg"
+                        <a href="#blog-single" class="blog-image d-block zoom"><img src="assets/img/aquarius.png"
                                 alt="" class="img-fluid news-image" />
                             <div class="image-overlay">
                                 <span class="fa fa-plus"></span>
@@ -438,7 +438,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mt-md-0 mt-5">
                     <div class="grids5-info">
-                        <a href="#blog-single" class="blog-image d-block zoom"><img src="assets/images/blog6.jpg"
+                        <a href="#blog-single" class="blog-image d-block zoom"><img src="assets/img/aries.png"
                                 alt="" class="img-fluid news-image" />
                             <div class="image-overlay">
                                 <span class="fa fa-plus"></span>
@@ -476,51 +476,68 @@
             </div>
         </div>
     </section>
-</div>
+</div> -->
 <!--  //News section -->
 
 <!-- customers Section -->
 <section class="w3l-customers py-md-5 py-4" id="clients">
     <div class="container">
-        <h3>Our commitment</h3>
+        <h3></h3>
         
         
     </div>
 </section>
+<!-- sign  -->
 <section class="w3l-customers py-md-5 py-4" id="clients">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="owl-three owl-carousel owl-theme logo-view">
                     <div class="item">
-                        <img src="assets/images/logo1.png" alt="company-logo" class="img-fluid">
+                        <img src="assets/img/aquarius.png" alt="company-logo" class="img-fluid">
                     </div>
                     <div class="item">
-                        <img src="assets/images/logo2.png" alt="company-logo" class="img-fluid">
+                        <img src="assets/img/aries.png" alt="company-logo" class="img-fluid">
 
                     </div>
                     <div class="item">
-                        <img src="assets/images/logo3.png" alt="company-logo" class="img-fluid">
+                        <img src="assets/img/cancer.png" alt="company-logo" class="img-fluid">
 
                     </div>
                     <div class="item">
-                        <img src="assets/images/logo4.png" alt="company-logo" class="img-fluid">
+                        <img src="assets/img/capricon.png" alt="company-logo" class="img-fluid">
 
                     </div>
                     <div class="item">
-                        <img src="assets/images/logo1.png" alt="company-logo" class="img-fluid">
+                        <img src="assets/img/gemini.png" alt="company-logo" class="img-fluid">
 
                     </div>
                     <div class="item">
-                        <img src="assets/images/logo2.png" alt="company-logo" class="img-fluid">
+                        <img src="assets/img/leo.png" alt="company-logo" class="img-fluid">
 
                     </div>
                     <div class="item">
-                        <img src="assets/images/logo3.png" alt="company-logo" class="img-fluid">
+                        <img src="assets/img/libra.png" alt="company-logo" class="img-fluid">
 
                     </div>
                     <div class="item">
-                        <img src="assets/images/logo4.png" alt="company-logo" class="img-fluid">
+                        <img src="assets/img/pisces.png" alt="company-logo" class="img-fluid">
+
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/sagittarius.png" alt="company-logo" class="img-fluid">
+
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/scorpio.png" alt="company-logo" class="img-fluid">
+
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/taurus.png" alt="company-logo" class="img-fluid">
+
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/virgo.png" alt="company-logo" class="img-fluid">
 
                     </div>
                 </div>
