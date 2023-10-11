@@ -5,7 +5,7 @@
       <div class="row footer-top-29">
         <div class="col-lg-4 col-md-6 col-sm-7 footer-list-29 footer-1 pr-lg-5">
           <div class="footer-logo mb-4">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
               <img src="assets\img\logo_bag1.png" alt="">
           </div>
           <div class="main-social-footer-29 mt-4">
